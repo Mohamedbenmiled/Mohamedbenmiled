@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Mohamed
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 Currenty a student at Esprit (Ecole Supérieure Privée d'ingénierie et de Technologies). Energetic and enthusiatic, capable of working with a variety of technologies  and solutions. 
 Highly experienced with some of the best automation , orchestration , deployment and monitoring technologies.
