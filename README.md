@@ -3,7 +3,7 @@ Currenty a student at Esprit (Ecole Supérieure Privée d'ingénierie et de Tech
 Highly experienced with some of the best automation , orchestration , deployment and monitoring technologies.
 
 
-Skills:  AWS / KUBERNETES / DOCKER / JENKINS  / ANSIBEL / OPENSTACK / GRAFANA / LOKI / PROMETHEUS / SPRINGBOOT / ANGULAR 
+Skills:  AWS / VAGRANT / KUBERNETES / DOCKER / JENKINS / NEXUS / SONARQUBE / ANSIBEL / OPENSTACK / GRAFANA / LOKI / PROMETHEUS / SPRINGBOOT / ANGULAR 
 
 - 🔭 I’m currently working on getting AWS SOLUTION ARCHITECT ASSOCIATE certificate. 
 
